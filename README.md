@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EsaKuu68
-- 👀 I’m interested in Computers, Home automation
+- 👀 I’m interested in Computers, Home Automation
 - 🌱 I’m currently learning Python programming, home automation systems
 - 💞️ I’m looking to collaborate on home automation systems
 - 📫 How to reach me with email :-)
