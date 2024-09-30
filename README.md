@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python programming, home automation systems
 - 💞️ I’m looking to collaborate on home automation systems
 - 📫 How to reach me with email :-)
-- 😄 Pronouns: ezaKuu
+- 😄 Pronouns: ezakuu
 - ⚡ Fun fact: I'm MTB-biker
 
 <!---
